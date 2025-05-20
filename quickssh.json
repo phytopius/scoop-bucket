@@ -1,0 +1,32 @@
+{
+    "version": "0.0.14",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.14/quickssh_Windows_i386.zip",
+            "bin": [
+                "quickssh.exe"
+            ],
+            "hash": "d2f0f7716474ac1dc4376d976a65e0ea817e09ea784bdb93a509597841776da6"
+        },
+        "64bit": {
+            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.14/quickssh_Windows_x86_64.zip",
+            "bin": [
+                "quickssh.exe"
+            ],
+            "hash": "c9d88a7f4f1a820a294b44ebfe964b88f319344f378257f336c6d6897ebb5ac1"
+        },
+        "arm64": {
+            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.14/quickssh_Windows_arm64.zip",
+            "bin": [
+                "quickssh.exe"
+            ],
+            "hash": "16f1c5803c3b971da5c761e7a9fa186ac36377086edbed877de9510cbb4cc799"
+        }
+    },
+    "homepage": "https://github.com/phytopius/quickssh",
+    "license": "MIT",
+    "description": "A manager for your ssh connections",
+    "post_install": [
+        "Write-Host 'See bottom of page for keybinds'"
+    ]
+}
