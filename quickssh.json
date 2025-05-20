@@ -1,26 +1,26 @@
 {
-    "version": "0.0.14",
+    "version": "0.0.15",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.14/quickssh_Windows_i386.zip",
+            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.15/quickssh_Windows_i386.zip",
             "bin": [
                 "quickssh.exe"
             ],
-            "hash": "d2f0f7716474ac1dc4376d976a65e0ea817e09ea784bdb93a509597841776da6"
+            "hash": "b15ac4b7b9865326364ae90011d05f1b36293938802b173f9dc1052ac9b45830"
         },
         "64bit": {
-            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.14/quickssh_Windows_x86_64.zip",
+            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.15/quickssh_Windows_x86_64.zip",
             "bin": [
                 "quickssh.exe"
             ],
-            "hash": "c9d88a7f4f1a820a294b44ebfe964b88f319344f378257f336c6d6897ebb5ac1"
+            "hash": "3fdfd73cbf97d9b9bfc0fabca4157e8ad7738b8694598dec199bc0d65dc81746"
         },
         "arm64": {
-            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.14/quickssh_Windows_arm64.zip",
+            "url": "https://github.com/phytopius/quickssh/releases/download/v0.0.15/quickssh_Windows_arm64.zip",
             "bin": [
                 "quickssh.exe"
             ],
-            "hash": "16f1c5803c3b971da5c761e7a9fa186ac36377086edbed877de9510cbb4cc799"
+            "hash": "d393f30fe50f3e6cb4fc3fc27f78bb93c1d8ae7eb4ce2a6d6720242ca66812bd"
         }
     },
     "homepage": "https://github.com/phytopius/quickssh",
